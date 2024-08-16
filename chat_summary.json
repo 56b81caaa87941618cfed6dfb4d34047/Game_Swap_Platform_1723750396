@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the new forms and buttons, do you have a specific functionality in mind that they should fulfill?\", \"option1\": \"Yes, I need them to perform specific actions.\", \"option2\": \"No, they are just for visual aesthetics at the moment.\"}, {\"question 2\": \"Do you want these forms and buttons to align with the video game theme in terms of design and color scheme?\", \"option1\": \"Yes, they should match the theme exactly.\", \"option2\": \"No, they can be standard design, the theme is not necessary.\"}], \"input_token_count\": 311, \"output_token_count\": 127, \"time_taken\": \"0:00:03.586707\"}",
         "timestamp": "16082024014820",
         "message_id": "guest16082024014811"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a game search form with autocomplete suggestions\", \"checked\": true}, {\"feature\": \"Include a 'Sort By' button with options like - Price, Popularity, and Release Date\", \"checked\": true}, {\"feature\": \"Place an 'Add to Cart' button on each game listing\", \"checked\": true}, {\"feature\": \"Incorporate a 'Filter By' button with genre and platform options\", \"checked\": false}, {\"feature\": \"Add a 'Wishlist' button alongside each game for easy access\", \"checked\": false}, {\"feature\": \"Include a 'View Trailer' button on game detail pages\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 150, \"time_taken\": \"0:00:04.304227\"}",
+        "timestamp": "16082024014821",
+        "message_id": "guest16082024014811"
     }
 ]
