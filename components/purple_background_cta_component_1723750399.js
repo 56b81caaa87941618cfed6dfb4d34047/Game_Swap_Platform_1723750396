@@ -28,6 +28,30 @@ Vue.component("purple_background_cta_component_1723750399", {
                     <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">Get Started <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></a>
                 </div>
                 <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Game_Swap_Platform_1723750396/main/images/5311731510bc4c3fa64d9897b122c66d.jpeg" alt="Game Image" class="mt-8" />
+                
+                <div class="mt-12 bg-gray-800 rounded-lg p-6 shadow-lg">
+                    <form>
+                        <div class="mb-4">
+                            <label for="gameName" class="block text-purple-300 mb-2">Game Name</label>
+                            <input type="text" id="gameName" class="w-full px-3 py-2 bg-gray-700 text-white rounded">
+                        </div>
+                        <div class="mb-4">
+                            <label for="gameGenre" class="block text-purple-300 mb-2">Game Genre</label>
+                            <select id="gameGenre" class="w-full px-3 py-2 bg-gray-700 text-white rounded">
+                                <option>Action</option>
+                                <option>Adventure</option>
+                                <option>RPG</option>
+                                <option>Strategy</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="bg-purple-600 text-white px-4 py-2 rounded hover:bg-purple-700">Submit</button>
+                    </form>
+                </div>
+                
+                <div class="mt-8 flex justify-center space-x-4">
+                    <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Quick Trade</button>
+                    <button class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Find Players</button>
+                </div>
             </div>
         </div>
     </section>`,
