@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a game search form with autocomplete suggestions\", \"checked\": true}, {\"feature\": \"Include a 'Sort By' button with options like - Price, Popularity, and Release Date\", \"checked\": true}, {\"feature\": \"Place an 'Add to Cart' button on each game listing\", \"checked\": true}, {\"feature\": \"Incorporate a 'Filter By' button with genre and platform options\", \"checked\": false}, {\"feature\": \"Add a 'Wishlist' button alongside each game for easy access\", \"checked\": false}, {\"feature\": \"Include a 'View Trailer' button on game detail pages\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 150, \"time_taken\": \"0:00:04.304227\"}",
         "timestamp": "16082024014821",
         "message_id": "guest16082024014811"
+    },
+    {
+        "role": "user",
+        "content": "change the image to a snake",
+        "timestamp": "16082024024636",
+        "message_id": "guest16082024024635"
     }
 ]
