@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a dynamic, animated background that reflects various video game genres, or a static, high-resolution image capturing a specific game's essence?\", \"option1\": \"Dynamic, animated background\", \"option2\": \"Static, high-resolution image\"}, {\"question 2\": \"Do you have any specific video games or characters in mind that you want to feature in the background, or should we select based on general popularity and relevance to your target audience?\", \"option1\": \"Yes, I have specific games/characters in mind\", \"option2\": \"Select based on popularity and relevance\"}], \"input_token_count\": 258, \"output_token_count\": 133, \"time_taken\": \"0:00:03.554944\"}",
         "timestamp": "16082024014614",
         "message_id": "guest16082024014605"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dynamic background that changes based on trending video games\", \"checked\": true}, {\"feature\": \"Implement a dark mode feature for user eye comfort during night-time browsing\", \"checked\": false}, {\"feature\": \"Use parallax scrolling effect for an interactive background experience\", \"checked\": false}, {\"feature\": \"Incorporate a section for live wallpapers related to popular video games\", \"checked\": false}, {\"feature\": \"Enable users to customize the background with their favorite game art\", \"checked\": true}, {\"feature\": \"Offer a light mode featuring more vibrant, game-themed backgrounds for daylight visibility\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 133, \"time_taken\": \"0:00:03.574053\"}",
+        "timestamp": "16082024014614",
+        "message_id": "guest16082024014605"
     }
 ]
