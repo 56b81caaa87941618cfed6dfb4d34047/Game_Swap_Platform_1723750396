@@ -42,5 +42,11 @@
         "content": "Absolutely, I'll add the requested forms and buttons.",
         "timestamp": "16082024014812",
         "message_id": "guest16082024014811"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the new forms and buttons, do you have a specific functionality in mind that they should fulfill?\", \"option1\": \"Yes, I need them to perform specific actions.\", \"option2\": \"No, they are just for visual aesthetics at the moment.\"}, {\"question 2\": \"Do you want these forms and buttons to align with the video game theme in terms of design and color scheme?\", \"option1\": \"Yes, they should match the theme exactly.\", \"option2\": \"No, they can be standard design, the theme is not necessary.\"}], \"input_token_count\": 311, \"output_token_count\": 127, \"time_taken\": \"0:00:03.586707\"}",
+        "timestamp": "16082024014820",
+        "message_id": "guest16082024014811"
     }
 ]
