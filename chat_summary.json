@@ -36,5 +36,11 @@
         "content": "Add a few random forms and buttons to this component",
         "timestamp": "16082024014812",
         "message_id": "guest16082024014811"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I'll add the requested forms and buttons.",
+        "timestamp": "16082024014812",
+        "message_id": "guest16082024014811"
     }
 ]

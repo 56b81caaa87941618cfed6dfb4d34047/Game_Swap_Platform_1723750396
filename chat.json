@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I'll add the requested forms and buttons.",
+        "message_id": "guest16082024014811",
+        "timestamp": "16082024014812",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a few random forms and buttons to this component",
         "message_id": "guest16082024014811",
