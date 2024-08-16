@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a dynamic, animated background that reflects various video game genres, or a static, high-resolution image capturing a specific game's essence?\", \"option1\": \"Dynamic, animated background\", \"option2\": \"Static, high-resolution image\"}, {\"question 2\": \"Do you have any specific video games or characters in mind that you want to feature in the background, or should we select based on general popularity and relevance to your target audience?\", \"option1\": \"Yes, I have specific games/characters in mind\", \"option2\": \"Select based on popularity and relevance\"}], \"input_token_count\": 258, \"output_token_count\": 133, \"time_taken\": \"0:00:03.554944\"}",
+        "message_id": "guest16082024014605",
+        "timestamp": "16082024014614",
+        "component_file_name": "purple_background_cta_component_1723750399",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change this background to be video game themed",
         "message_id": "guest16082024014605",
