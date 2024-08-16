@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the snake image to convey a specific theme or emotion related to the video game marketplace?\", \"option1\": \"Yes, I want it to be aligned with adventurous themes.\", \"option2\": \"No, just a generic snake image will do.\"}, {\"question 2\": \"Should the snake image be a static picture or an animated graphic?\", \"option1\": \"I'd prefer a static picture.\", \"option2\": \"An animated graphic would be great.\"}], \"input_token_count\": 333, \"output_token_count\": 109, \"time_taken\": \"0:00:04.448490\"}",
+        "message_id": "guest16082024024635",
+        "timestamp": "16082024024645",
+        "component_file_name": "purple_header_component_1723750399",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to a snake",
         "message_id": "guest16082024024635",
