@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nAI: Got it, working on changing the background to video game theme.\nUser: Change this background to be video game themed\nUser: Add a few random forms and buttons to this component\nAI: Absolutely, I'll add the requested forms and buttons.\nThis is the user's current request of changes to be made: change the image to a snake"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: change the image to a snake\nAI: Absolutely, I'll add the requested forms and buttons.\nUser: Add a few random forms and buttons to this component\nUser: Change this background to be video game themed\nAI: Got it, working on changing the background to video game theme.\n\nThis is the user's current request of changes to be made:\nChange the picture to be garbage themed"
     }
 ]
