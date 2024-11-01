@@ -51,7 +51,11 @@ Vue.component("purple_background_cta_component_1723750399", {
                 <div class="mt-8 flex justify-center space-x-4">
                     <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Quick Trade</button>
                     <button class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Find Players</button>
-                </div>
+                    <button class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Find Players</button>
+                    <button class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 flex items-center">
+                        <i class='bx bxs-hot mr-2'></i>
+                        Hadoken!
+                    </button>
             </div>
         </div>
     </section>`,
@@ -60,5 +64,13 @@ Vue.component("purple_background_cta_component_1723750399", {
                 expanded: false, 
                 tab: null,
             };
+        },
+        methods: {
+            // Hadoken method
+            performHadoken() {
+                console.log("Hadoken!");
+                // Add your Hadoken logic here
+            }
+            // End of Hadoken method
         },
     });
