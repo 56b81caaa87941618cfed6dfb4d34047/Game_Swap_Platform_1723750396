@@ -98,6 +98,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific action should the hadoken button trigger in the app?\", \"option1\": \"Launch a special animation\", \"option2\": \"Play a sound effect\"}, {\"question 2\": \"How would you like the hadoken button to be visually styled?\", \"option1\": \"Bright colors with a glowing effect\", \"option2\": \"Minimalistic design with subtle animations\"}], \"input_token_count\": 269, \"output_token_count\": 91, \"time_taken\": \"0:00:01.482288\"}",
+        "message_id": "guest01112024223818",
+        "timestamp": "01112024223822",
+        "component_file_name": "purple_background_cta_component_1723750399",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I will add a hadoken button to the component.",
         "message_id": "guest01112024223818",
